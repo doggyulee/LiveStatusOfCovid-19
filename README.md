@@ -1,9 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available view this website, url is https://fervent-spence-85e4b2.netlify.com/
+# Available view this website, url is https://fervent-spence-85e4b2.netlify.com/
 
 
-# World's Live Status of Covid-19
+## World's Live Status of Covid-19
 
 ### 1. Initial screen
 
